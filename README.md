@@ -13,5 +13,5 @@ streamlit run dashboard.py
 ```
 ##  tautan untuk dashboard
 ```
-https://projek-dashboard-dicoding.streamlit.app/
+https://projekdashboard-raka.streamlit.app/
 ```
